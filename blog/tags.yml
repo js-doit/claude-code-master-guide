@@ -1,19 +1,14 @@
-facebook:
-  label: Facebook
-  permalink: /facebook
-  description: Facebook tag description
+소식:
+  label: 소식
+  permalink: /news
+  description: 업데이트 소식 및 공지
 
-hello:
-  label: Hello
-  permalink: /hello
-  description: Hello tag description
+claude-code:
+  label: Claude Code
+  permalink: /claude-code
+  description: Claude Code 관련 포스트
 
-docusaurus:
-  label: Docusaurus
-  permalink: /docusaurus
-  description: Docusaurus tag description
-
-hola:
-  label: Hola
-  permalink: /hola
-  description: Hola tag description
+tips:
+  label: 팁 & 트릭
+  permalink: /tips
+  description: Claude Code 활용 팁
