@@ -37,7 +37,7 @@ const config = {
         docs: {
           sidebarPath: './sidebars.js',
           editUrl: 'https://github.com/js-doit/claude-code-master-guide/tree/main/',
-          showLastUpdateTime: false,
+          showLastUpdateTime: true,
           showLastUpdateAuthor: false,
         },
         blog: {
