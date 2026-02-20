@@ -5,7 +5,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 const config = {
   title: 'Claude Code 마스터 가이드',
   tagline: '설치부터 기업 AI 팀 구축까지 — 한국어 완전 정복 플레이북',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/favicon.svg',
 
   future: {
     v4: true,
