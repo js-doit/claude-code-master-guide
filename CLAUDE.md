@@ -21,10 +21,10 @@ docs/
   intro.md, faq.md, glossary.md, reference.md
   level-1/    — 입문 (6챕터, ✅ 완료)
   level-2/    — 기초 (7챕터, ✅ 완료)
-  level-3/    — 중급 (플레이스홀더)
-  level-4/    — 고급 (플레이스홀더)
-  level-5/    — 마스터 (플레이스홀더)
-  capstone/   — 기업 캡스톤 (플레이스홀더)
+  level-3/    — 중급 (9챕터, ✅ 완료)
+  level-4/    — 고급 (8챕터, ✅ 완료)
+  level-5/    — 마스터 (6챕터, ✅ 완료)
+  capstone/   — 기업 캡스톤 (10챕터, ✅ 완료)
 blog/         — 업데이트 소식
 src/
   pages/index.js     — 랜딩 페이지 (Hero, Stats, Paths, Roadmap)
@@ -44,10 +44,10 @@ src/
 
 - ✅ Level 1 — 입문 (6챕터 완료)
 - ✅ Level 2 — 기초 (7챕터 완료)
-- 🔄 Level 3 — 중급 (플레이스홀더)
-- 🔄 Level 4 — 고급 (플레이스홀더)
-- 🔄 Level 5 — 마스터 (플레이스홀더)
-- 🔄 Capstone — 기업 프로젝트 (플레이스홀더)
+- ✅ Level 3 — 중급 (9챕터 완료)
+- ✅ Level 4 — 고급 (8챕터 완료)
+- ✅ Level 5 — 마스터 (6챕터 완료)
+- ✅ Capstone — 기업 팀 에이전트 (10챕터 완료)
 
 ## 금지 사항
 
